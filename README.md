@@ -4,3 +4,5 @@ Our product is an ingenuitive AI Chess Board that enables chess enthusiasts of a
 When runnning the program, the user must specify the corners of the board in relation to the camera on line 670 of main.py.
 
 Trained Object Detection Model: https://drive.google.com/file/d/1XYDmdhH9eJJYIxvN0Z4yapbdttlUHgki/view?usp=sharing
+
+Created by Mason Boucher, Nima Sichani, Alex Angeloff, and Michael Habib
